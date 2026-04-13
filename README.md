@@ -1,4 +1,3 @@
-```markdown
 # Fake News Detection Using Machine Learning
 
 A beginner-friendly yet research-ready Python project for detecting **Fake News** vs **Real News** using:
@@ -69,7 +68,7 @@ The model:
 │   ├── 09_top_features_real.png
 │   └── 10_top_features_fake.png
 └── README.md
-```
+
 
 ---
 
